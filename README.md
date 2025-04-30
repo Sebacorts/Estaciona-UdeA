@@ -5,9 +5,7 @@
 ## Descripción General del Proyecto
 
 **Estaciona UdeA** es un software de consola desarrollado en Python para la gestión eficiente del parqueadero del sector universitario de la Universidad de Antioquia.  
-Este sistema está orientado a facilitar el registro de usuarios, el control de ingreso y salida de vehículos, el cálculo automatizado del cobro por uso, la generación de reportes administrativos y la exportación de datos para su análisis posterior.
-
-Nuestro objetivo es optimizar los procesos operativos, reducir errores humanos y modernizar la administración del parqueadero, asegurando una experiencia más ágil y ordenada para los trabajadores y usuarios.
+Este sistema está orientado a facilitar el registro de usuarios, el control de ingreso y salida de vehículos, el cálculo automatizado del cobro por uso, la generación de reportes administrativos, disponibilidad de casillas libres y ocupadas.
 
 ---
 
