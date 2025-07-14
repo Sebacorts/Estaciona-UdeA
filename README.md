@@ -16,9 +16,3 @@ Este sistema está orientado a facilitar el registro de usuarios, el control de 
 - **Rol en el proyecto:** Líder del equipo  
 - **Fortalezas:** Pensamiento lógico, análisis de datos, estructuración de código  
 - **Responsabilidades:** Coordinación general, diseño del menú principal, exportación de datos, documentación del repositorio
-
-### Harol González Sepúlveda
-- **Programa:** Ingeniería Industrial – Universidad de Antioquia  
-- **Rol en el proyecto:** Desarrollador  
-- **Fortalezas:** Validación de datos, uso de condicionales, manejo de estructuras de datos  
-- **Responsabilidades:** Registro de usuarios y vehículos, validación de entradas, gestión de espacios de parqueo
